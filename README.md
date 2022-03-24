@@ -1,9 +1,9 @@
 ### Hello World! Eu sou o Cristoffer! 👋
 
-- 📚 Estou cursando a faculdade de Análise e Desenvolvimento de Sistemas
-- 🖥️ Faço um curso de desenvolvimento web fullstack desde 10/2021 na Udemy
+- 📚 Cursando Análise e Desenvolvimento de Sistemas
+- 🖥️ Faço um curso de desenvolvimento web fullstack desde 2021 na Udemy
 - 🚀 Atualmente estou estudando Nodejs e React.js
-- 🔥 Pretendo aprender Next.js até o final do ano
+- 🔥 Pretendo aprender Next.js e Typescript até o final do ano
 - Meu site pessoal está em desenvolvimento. Novidades em breve...
 
 ##
