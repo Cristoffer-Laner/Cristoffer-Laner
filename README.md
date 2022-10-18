@@ -2,9 +2,9 @@
 
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
 - 🖥️ Faço um curso de desenvolvimento web fullstack desde 2021 na Udemy
-- 🚀 Atualmente estou estudando Nodejs e React.js
-- 🔥 Pretendo aprender Next.js e Typescript até o final do ano
-- Meu site pessoal está em desenvolvimento. Novidades em breve...
+- Conhecimentos em Bootstrap e Javascript no front-end
+- Atualmente estou estudando Express e POO com Typescript
+- Aprendendo a linguagem SQL e fazendo CRUD com SQLite e MySQL sgbd
 
 ##
   
