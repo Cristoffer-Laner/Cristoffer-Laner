@@ -1,10 +1,8 @@
 ### Hello World! Eu sou o Cristoffer! 👋
 
-- 📚 Cursando Análise e Desenvolvimento de Sistemas
-- 🖥️ Faço um curso de desenvolvimento web fullstack desde 2021 na Udemy
-- Conhecimentos em Bootstrap e Javascript no front-end
-- Atualmente estou estudando Express e POO com Typescript
-- Aprendendo a linguagem SQL e fazendo CRUD com SQLite e MySQL sgbd
+- 📚 Cursando 4º semestre em Análise e Desenvolvimento de Sistemas no SENAC.
+- 🖥️ Certificado em desenvolvimento WEB pela Udemy.
+- Conhecimentos em Node.js, Express, Sequelize, Nextjs, Bootstrap, MySQL, Docker e versionamento GIT.
 
 ##
   
