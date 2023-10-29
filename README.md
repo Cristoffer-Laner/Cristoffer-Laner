@@ -2,7 +2,7 @@
 
 - 📚 Cursando 4º semestre em Análise e Desenvolvimento de Sistemas no SENAC.
 - 🖥️ Certificado em desenvolvimento WEB pela Udemy.
-- Conhecimentos em Node.js, Express, Sequelize, Nextjs, Bootstrap, MySQL, Docker e versionamento GIT.
+- Conhecimentos em Node.js, Python, Express, Sequelize, Nextjs, Bootstrap, MySQL, Docker e versionamento GIT.
 
 ##
   
